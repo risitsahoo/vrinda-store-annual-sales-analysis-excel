@@ -17,7 +17,7 @@ A complete Excel-based data analytics project featuring data cleaning, visualiza
 - [Key Insights](#-key-insights)
 - [Results & Conclusion](#-results--conclusion)
 - [Future Work & Recommendations](#-future-work--recommendations)
-- [Author & Contact](#-author--contact)
+- [Contact](#-contact)
 
 ---
 
