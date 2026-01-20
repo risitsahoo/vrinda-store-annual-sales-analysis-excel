@@ -5,19 +5,19 @@ A complete Excel-based data analytics project featuring data cleaning, visualiza
 ---
 
 ## 📑 Table of Contents
-- [Project Summary](#project-summary)
-- [Files in This Repository](#files-in-this-repository)
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Dataset Description](#dataset-description)
-- [Tools & Technologies Used](#tools--technologies-used)
-- [Methods & Workflow](#methods--workflow)
-  [Dashboard Preview](#dashboard-preview)
-- [How to Run the Project](#how-to-run-the-project)
-- [Key Insights](#key-insights)
-- [Results & Conclusion](#results--conclusion)
-- [Future Work & Recommendations](#future-work--recommendations)
-- [Author & Contact](#author--contact)
+- [Project Summary](#-project-summary)
+- [Files in This Repository](#-files-in-this-repository)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Dataset Description](#-dataset-description)
+- [Tools & Technologies Used](#-tools--technologies-used)
+- [Methods & Workflow](#-methods--workflow)
+  [Dashboard Preview](#-dashboard-preview)
+- [How to Run the Project](#-how-to-run-the-project)
+- [Key Insights](#-key-insights)
+- [Results & Conclusion](#-results--conclusion)
+- [Future Work & Recommendations](#-future-work--recommendations)
+- [Author & Contact](#-author--contact)
 
 ---
 
