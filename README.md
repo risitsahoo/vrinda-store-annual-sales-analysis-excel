@@ -22,7 +22,7 @@ A complete Excel-based data analytics project featuring data cleaning, visualiza
 ---
 
 ## 📘 Project Summary
-This project analyzes **Vrinda Store’s 2022 annual sales data** to uncover customer behavior, state-wise performance, product demand, and channel efficiency.  
+This project analyses **Vrinda Store’s 2022 annual sales data** to uncover customer behavior, state-wise performance, product demand, and channel efficiency.  
 The analysis uses **Microsoft Excel** to transform raw data into meaningful business insights through cleaning, modeling, feature engineering, and dashboard visualization.
 
 It demonstrates strong Excel skills, analytical thinking, and the ability to convert raw data into actionable business intelligence.
