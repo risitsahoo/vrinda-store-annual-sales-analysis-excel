@@ -12,7 +12,7 @@ A complete Excel-based data analytics project featuring data cleaning, visualiza
 - [Dataset Description](#-dataset-description)
 - [Tools & Technologies Used](#-tools--technologies-used)
 - [Methods & Workflow](#-methods--workflow)
-  [Dashboard Preview](#-dashboard-preview)
+- [Dashboard Preview](#-dashboard-preview)
 - [How to Run the Project](#-how-to-run-the-project)
 - [Key Insights](#-key-insights)
 - [Results & Conclusion](#-results--conclusion)
