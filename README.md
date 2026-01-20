@@ -151,7 +151,7 @@ The dataset includes:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](VRINDA%20STORE%20DASHBOARD.png)
+![Dashboard](vrinda_store_annual_sales_analysis_dashboard_image.png)
 
 ---
 
