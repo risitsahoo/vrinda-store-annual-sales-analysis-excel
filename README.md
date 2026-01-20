@@ -83,9 +83,9 @@ The dataset includes:
 - Purchase date  
 
 **Uploaded Project Assets:**  
-- `Vrinda Store Data Analysis.xlsx`  
-- `VRINDA STORE DASHBOARD.png`  
-- `Vrinda_Store_Analysis_Report.pdf`
+- `vrinda_store_annual_sales_analysis_dataset_and_dashboard.xlsx`  
+- `vrinda_store_annual_sales_analysis_dashboard_image.png`  
+- `vrinda_store_annual_sales_analysis_report.pdf`
 
 ---
 
