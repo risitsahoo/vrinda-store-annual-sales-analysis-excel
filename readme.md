@@ -161,7 +161,7 @@ The dataset includes:
    - Dashboard image  
    - Report (optional)
 
-2. Open the Excel file in **Microsoft Excel 2016 or later**.
+2. Open the Excel file in **Microsoft Excel 2019 or later**.
 
 3. Navigate to the **Dashboard** tab.
 
