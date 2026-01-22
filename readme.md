@@ -15,8 +15,8 @@ A complete Excel-based data analytics project featuring data cleaning, visualiza
 - [Dashboard Preview](#-dashboard-preview)
 - [How to Run the Project](#-how-to-run-the-project)
 - [Key Insights](#-key-insights)
-- [Results & Conclusion](#-results--conclusion)
 - [Future Work & Recommendations](#-future-work--recommendations)
+- [Results & Conclusion](#-results--conclusion)
 - [Contact](#-contact)
 
 ---
@@ -191,6 +191,17 @@ No external tools or libraries required.
 
 ---
 
+## 🔮 Future Work & Recommendations
+Enhancements that can be added:
+
+- Convert the dashboard to **Power BI** for advanced interactivity  
+- Build predictive sales models  
+- Perform customer retention and cohort analysis  
+- Use macros or Python for automation  
+- Add profitability and inventory forecasting metrics  
+
+---
+
 ## 🏁 Results & Conclusion
 This project successfully:
 
@@ -201,17 +212,6 @@ This project successfully:
 - Identified top-performing channels and categories  
 
 It demonstrates strong capabilities in **data analysis, visualization, and business intelligence storytelling**, making it suitable for Data Analyst and Business Analyst portfolios.
-
----
-
-## 🔮 Future Work & Recommendations
-Enhancements that can be added:
-
-- Convert the dashboard to **Power BI** for advanced interactivity  
-- Build predictive sales models  
-- Perform customer retention and cohort analysis  
-- Use macros or Python for automation  
-- Add profitability and inventory forecasting metrics  
 
 ---
 
